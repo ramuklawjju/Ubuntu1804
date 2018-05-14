@@ -1,4 +1,4 @@
-# Ubuntu1804
+# Ubuntu18.04
 Setting up everything I need on ubuntu 18.04
 
 # install chrome :
@@ -13,3 +13,6 @@ sudo gdebi google-chrome-stable_current_amd64.deb
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt update
 sudo apt install oracle-java8-set-default
+
+# install git 
+sudo apt -y install git
